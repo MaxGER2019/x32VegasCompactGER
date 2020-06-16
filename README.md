@@ -1,4 +1,4 @@
-# x32 Compact Vegas Mode (GER)
+# X32 Compact Vegas Mode (GER)
 
 Basiert auf dem x32VegasGER Repo von mir -> https://github.com/MaxGER2019/x32VegasGER
 
